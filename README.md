@@ -2,32 +2,32 @@
 <!-- ![Teaser](teaser.png) -->
 ### Depth Anything
 <div class="half">
-    <img src="demo/bunny-cake.png" width="128"><img src="demo/bunny-cake_da.png" width="128"><img src="demo/bunny-cake_circle.gif" width="128"><img src="demo/bunny-cake_swing.gif" width="128">
+    <img src="demo/bunny-cake.png" width="256"><img src="demo/bunny-cake_da.png" width="256"><img src="demo/bunny-cake_circle.gif" width="256"><img src="demo/bunny-cake_swing.gif" width="256">
 </div>
 
 ### Boost
 <div class="half">
-    <img src="demo/bunny-cake.png" width="128"><img src="demo/bunny-cake_boost.png" width="128"><img src="demo/bunny-cake_circle_boost.gif" width="128"><img src="demo/bunny-cake_swing_boost.gif" width="128">
+    <img src="demo/bunny-cake.png" width="256"><img src="demo/bunny-cake_boost.png" width="256"><img src="demo/bunny-cake_circle_boost.gif" width="256"><img src="demo/bunny-cake_swing_boost.gif" width="256">
 </div>
 
 ### Midas
 <div class="half">
-    <img src="demo/bunny-cake.png" width="128"><img src="demo/bunny-cake_midas.png" width="128"><img src="demo/bunny-cake_circle_midas.gif" width="128"><img src="demo/bunny-cake_swing_midas.gif" width="128">
+    <img src="demo/bunny-cake.png" width="256"><img src="demo/bunny-cake_midas.png" width="256"><img src="demo/bunny-cake_circle_midas.gif" width="256"><img src="demo/bunny-cake_swing_midas.gif" width="256">
 </div>
 
 ### Depth Anything
 <div class="half">
-    <img src="demo/castle.png" width="128"><img src="demo/castle_da.png" width="128"><img src="demo/castle_circle.gif" width="128"><img src="demo/castle_swing.gif" width="128">
+    <img src="demo/castle.png" width="256"><img src="demo/castle_da.png" width="256"><img src="demo/castle_circle.gif" width="256"><img src="demo/castle_swing.gif" width="256">
 </div>
 
 ### Boost
 <div class="half">
-    <img src="demo/castle.png" width="128"><img src="demo/castle_boost.png" width="128"><img src="demo/castle_circle_boost.gif" width="128"><img src="demo/castle_swing_boost.gif" width="128">
+    <img src="demo/castle.png" width="256"><img src="demo/castle_boost.png" width="256"><img src="demo/castle_circle_boost.gif" width="256"><img src="demo/castle_swing_boost.gif" width="256">
 </div>
 
 ### Midas
 <div class="half">
-    <img src="demo/castle.png" width="128"><img src="demo/castle_midas.png" width="128"><img src="demo/castle_circle_midas.gif" width="128"><img src="demo/castle_swing_midas.gif" width="128">
+    <img src="demo/castle.png" width="256"><img src="demo/castle_midas.png" width="256"><img src="demo/castle_circle_midas.gif" width="256"><img src="demo/castle_swing_midas.gif" width="256">
 </div>
 
 
