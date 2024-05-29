@@ -1,11 +1,15 @@
 # Make-It-3D: High-Fidelity 3D Creation from A Single Image with Diffusion Prior (ICCV 2023)
 <!-- ![Teaser](teaser.png) -->
 <div class="half">
-    <img src="demo/bunny-cake.png" width="128"><img src="demo/bunny-cake-rgb.gif" width="128"><img src="demo/bunny-cake-normal.gif" width="128"><img src="demo/castle.png" width="128"><img src="demo/castle-rgb.gif" width="128"><img src="demo/castle-normal.gif" width="128">
+    <img src="demo/bunny-cake.png" width="128"><img src="demo/bunny-cake_da.png" width="128"><img src="demo/bunny-cake_circle.gif" width="128"><img src="demo/bunny-cake_swing.gif" width="128">
 </div>
 <div class="half">
-    <img src="demo/house.png" width="128"><img src="demo/house-rgb.gif" width="128"><img src="demo/house-normal.gif" width="128"><img src="demo/jay.png" width="128"><img src="demo/jay-rgb.gif" width="128"><img src="demo/jay-normal.gif" width="128">
+    <img src="demo/bunny-cake.png" width="128"><img src="demo/bunny-cake_boost.png" width="128"><img src="demo/bunny-cake_circle_boost.gif" width="128"><img src="demo/bunny-cake_swing_boost.gif" width="128">
 </div>
+<div class="half">
+    <img src="demo/bunny-cake.png" width="128"><img src="demo/bunny-cake_midas.png" width="128"><img src="demo/bunny-cake_circle_midas.gif" width="128"><img src="demo/bunny-cake_swing_midas.gif" width="128">
+</div>
+
 
 ### [Project page](https://make-it-3d.github.io/) |   [Paper](https://arxiv.org/abs/2303.14184) 
 <!-- <br> -->
