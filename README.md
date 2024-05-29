@@ -1,4 +1,4 @@
-# Make-It-3D: High-Fidelity 3D Creation from A Single Image with Diffusion Prior (ICCV 2023)
+# Demo with different models
 <!-- ![Teaser](teaser.png) -->
 <div class="half">
     <img src="demo/bunny-cake.png" width="128"><img src="demo/bunny-cake_da.png" width="128"><img src="demo/bunny-cake_circle.gif" width="128"><img src="demo/bunny-cake_swing.gif" width="128">
@@ -8,6 +8,16 @@
 </div>
 <div class="half">
     <img src="demo/bunny-cake.png" width="128"><img src="demo/bunny-cake_midas.png" width="128"><img src="demo/bunny-cake_circle_midas.gif" width="128"><img src="demo/bunny-cake_swing_midas.gif" width="128">
+</div>
+
+<div class="half">
+    <img src="demo/castle.png" width="128"><img src="demo/castle_da.png" width="128"><img src="demo/castle_circle.gif" width="128"><img src="demo/castle_swing.gif" width="128">
+</div>
+<div class="half">
+    <img src="demo/castle.png" width="128"><img src="demo/castle_boost.png" width="128"><img src="demo/castle_circle_boost.gif" width="128"><img src="demo/castle_swing_boost.gif" width="128">
+</div>
+<div class="half">
+    <img src="demo/castle.png" width="128"><img src="demo/castle_midas.png" width="128"><img src="demo/castle_circle_midas.gif" width="128"><img src="demo/castle_swing_midas.gif" width="128">
 </div>
 
 
